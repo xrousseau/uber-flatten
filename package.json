@@ -1,0 +1,23 @@
+{
+  "name": "uber-flatten",
+  "version": "1.0.0",
+  "description": "Converts any JSON string into a spreadsheet like tabular format.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xrousseau/uber-flatten.git"
+  },
+  "keywords": [
+    "Json",
+    "flat"
+  ],
+  "author": "David Rousseau",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/xrousseau/uber-flatten/issues"
+  },
+  "homepage": "https://github.com/xrousseau/uber-flatten#readme"
+}
